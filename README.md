@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 👋 Hi, I’m @kevlar21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, SQL, and refreshing my C++ & JavaScript knowledge.
+- 👋 Hi, I’m Kevin (@kevlar21)
+- 👀 I’m interested in cybersecurity, homelab projects, scripting
+- 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me linkedin.com/in/kevinliberty
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinliberty) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kevin-liberty) 
